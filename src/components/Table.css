@@ -1,0 +1,31 @@
+.t {
+    background-color: #0B0F15;
+    width: 1920px;
+    height: 770px;
+  }
+  .tab {
+    width: 100%;
+    max-width: 1600px; /* Максимальная ширина таблицы */
+    height: 523px;
+    overflow-y: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .table {
+    width: 100%;
+  }
+  
+  .all-assets-button {
+    width: 100%;
+    max-width: 1600px;
+    height: 42px;
+    border-radius: 8px;
+    border: 1px solid #CEE7FF;
+    background: #26314E;
+    color: #CEE7FF;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+  }
